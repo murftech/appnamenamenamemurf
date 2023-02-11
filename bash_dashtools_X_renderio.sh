@@ -70,6 +70,13 @@ git add .
 git commit -m "first update"
 git push
 
+remote: This repository moved. Please use the new location:
+remote:   https://github.com/murftech/appnamenamenamemurf.git
+To https://github.com/murftech/appnamenma.git
+It seems it reads the git files though to know where it is...
+git remote rm origin
+git remote add origin [updated link]
+
 
 Q: how does the gui even listen to github repo??
 Q: does the app name need to match the repo name?? oh is that the lookup they use?
