@@ -71,6 +71,10 @@ git commit -m "first update"
 git push
 
 
+Q: how does the gui even listen to github repo??
+Q: does the app name need to match the repo name?? oh is that the lookup they use?
+Q: before was private and reponame anyhow. I set them "right", but seems dashtools not picking up...
+
 ########################## render io DEPLOYMENT!!!! ##########################
 When everything is ticked, click DEPLOY TO RENDER
 Error: yaml file not available. LP: you must push only the app folder!!! not is parent
